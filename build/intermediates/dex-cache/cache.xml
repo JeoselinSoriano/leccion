@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_f50e392b1290372190b0558aadb31b0f1a12b58b.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_a23e16ac673a80b25a52486e3b331eba005a14d3.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_b5516b72fc8a69c154e5bab4ec10fc43a49e6aff.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_ac8aa7c896531f3c4a723bbee457b25a05af6549.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d120e047ab30c7f9347b1900fb0a7f7c4d919c81.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_a2de4aedad7b8bcc6ce11a98d49c3dfd485dca8e.jar" />
+    </item>
+    <item
+        jar="/usr/local/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_55efb21e01e75b97a83ef18ec1fdd2a13b018c6e.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_b1b61b08a222e69b84d03bc3a8f841205e65bff7.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_bbbe7c4ad8406688311a33b37e4a6d3805726995.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="26871aacb631bf8b3da8f1a848693079b535ef9d">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/instant-run_653d3964404e016b921e047f5d337304dfb0227c.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_a41f08020a3884c7a1522a9b9898fd91fc082a87.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d955a1562c45f9085d1d103e1c73ab8caebb786e.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a18b7d6cbcff9e635a15fe7d2b02ea43d538f9ac">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_7e0f1bc3bc2666e1ef306ccbf8e65fddbbda16ee.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_1c1b8d1aa282efb7502d1c9c27af153bc5378359.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e3d97e55a9a8d17d77db66abc5a4053b41fa9418.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_be1b5d889a041407f9a18e477107b0da65f18290.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_92cf1e0afe9f0abf63e74fd7f2bec14af94f069f.jar" />
+    </item>
+
+</items>

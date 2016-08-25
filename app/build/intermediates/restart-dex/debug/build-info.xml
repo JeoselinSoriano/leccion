@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="5825273630042"
+    token="-2101361793524815581" >
+
+    <task
+        name="javac"
+        duration="94" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="31" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="5825273630042" >
+        <artifact
+            location="/home/estudiante/AndroidStudioProjects/Taller Hilos/leccion2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
